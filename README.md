@@ -1,4 +1,5 @@
 ![home_credit.png](home_credit.png)
+
 Our Home Credit Loan Default Prediction project addresses the challenge of accurately predicting the risk of loan default for clients with limited or no credit history. This critical problem directly influences loan approval decisions and portfolio performance, making it crucial for Home Credit to identify potential defaulters and make informed loan decisions accordingly. The success of our project will be measured by the model's predictive accuracy and ability to distinguish high-risk clients. This is a binary classification problem where the target variable is either default or non-default. To achieve our goals, we plan to evaluate the model using different kinds of machine learning models.
 
 The project comprises several key stages: data preprocessing, exploratory analysis, model testing and development, and performance validation. As a collaborative team of four MSBA students, we aim to deliver an efficient predictive model within the next month. Our key milestones include data cleaning, creating an exploratory data analysis, testing the model, and presenting the project with accurate outcomes.
